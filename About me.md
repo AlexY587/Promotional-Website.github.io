@@ -12,7 +12,19 @@ Nationality
 ---
 Cultural
 ---
+- When visiting my grandparents it is required to bow
+- ![alt text](https://github.com/AlexY587/Promotional-Website.github.io/blob/main/download.jpg)
+- Dumplings
+- ![alt text](https://github.com/AlexY587/Promotional-Website.github.io/blob/main/homemade-chinese-egg-noodles-19-e1609271249794.jpg)
+- Egg noodles
+- ![alt text](https://github.com/AlexY587/Promotional-Website.github.io/blob/main/1645023412629.png)
+- Soup dumplings
 - At the Spring Festival everyone recives "red packets" containing money, the dragon dance is used to celebrate good fortune or a good harvest traditionally
-
-
-
+---
+Bibliography
+---
+- https://www.britannica.com/topic/flag-of-Canada 2022/07/05
+- https://thewoksoflife.com/homemade-chinese-egg-noodles/ 2022/07/05
+- https://www.tripsavvy.com/maps-of-canada-4056313 2022/07/05
+- https://healthynibblesandbits.com/gluten-free-crystal-dumplings/ 2022/07/05
+- https://www.foodnetwork.com/recipes/pork-soup-dumplings-1-12354273 2022/07/05
