@@ -6,4 +6,3 @@ To Do List
 
 Promotion
  - I will be promoting a website in which you can draw anything using your mouse
-![alt text](http://url/to/img.png)
