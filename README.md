@@ -6,4 +6,4 @@ To Do List
 - [ ] Make website
 
 Promotion
- - I will be promoting UNICEF
+ - I will be promoting Github
