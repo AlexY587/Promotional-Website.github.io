@@ -6,4 +6,4 @@ To Do List
 - [ ] Make website
 
 Promotion
- - I will be promoting a website in which you can draw anything using your mouse
+ - I will be promoting Github
