@@ -3,9 +3,9 @@
 To Do List
 - [x] complete the personal information
 - [x] brainstorm and find an idea to promote
-- [x] create two webpages
-- [ ] create another additional template for the webpages
+- [ ] create a template for webpages
 - [ ] design template
+- [ ] add two webpages
 - [ ] add 5 reasons
 - [ ] finish designing website
 
