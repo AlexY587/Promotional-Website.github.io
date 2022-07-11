@@ -8,29 +8,58 @@
     <meta name="description" content="Basic website to promote Github">
     <meta name="keywords" content="boilerplate, starter code, HTML, learning, splash, page, index, Github">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-
-    <title>Splash Page</title>
-
+    <title>5 Reasons Why you should use GitHub</title>
     <noscript>Running JavaScript is not nescessary in this HTML Page ... FYI your feature to execute scripts is turned off</noscript>
+    <style>
+      .menu {
+        border: 1px solid rgb(255, 255, 255);
+        width: 25%;
+        float: left;
+        padding: 15px;
+      }
+      .content {
+        border: 1px solid rgb(255, 255, 255);
+        max-width: 500px;
+        background-color: rgb(0, 0, 0) ;
+        margin: auto;
+      }
+      #demobox {
+        background-color: rgb(0, 0, 0) ;
+        padding: 10px ;
+        border: 1px solid rgb(0, 0, 0) ;
+      }
+      body {
+        background-color: rgb(0, 0, 0);
+      }
+      </style>
 </head>
 <body>
-  <header>Website to learn HTML</header>
   <nav>
-    <header>Navigation</header>
-    <section>
+    <div class="menu">
+    <header style="color:rgb(255, 255, 255)">Navigation</header>
+    <section style="color:rgb(255, 255, 255)">
         <ul>
-            <li> This is a link to the official Github website, <a href="https://github.com/"target="_blank">Click here</a>
-            <li> 10 reasons for why i use GitHub, <a href="childPages/Headings and Paragraph Tags with Viewport.html"target="_blank">Click here</a>
+            <li> To see the official Github website, <a href="https://github.com/"target="_blank">Click here</a>
+            <li> To see the 5 reasons, <a href="childPages/5 Reasons Why.html"target="_blank">Click here</a>
             </ul>
         </section>
+        </div>
   </nav>
-  <aside> <img src="Image-Folder/github.png" alt="Github Logo" width="200" height="80"></aside> 
-  <section><article>This is a section and article</article></section>
-  <section><article><p>This is a paragraph tag inside a section article</p></article></section>
+  <div class="content">
+    <header style="color:rgb(255, 255, 255)"><h1>5 Reasons Why you should use GitHub</h1></header>
+    <img src="Image-Folder/github.png" alt="Github Logo" width="500" height="200">
+  
+  <blockquote cite="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">
+    <!--Date Accessed 20220708--> <!--URL: https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png -->
+    <!---->
+  </blockquote>
+  
+  <section style="color:rgb(255, 255, 255)"><article><h3>If you would like to see the 5 reasons, Please <a href="childPages/5 Reasons Why.html"target="_blank">Click here</a> <h3></article></section>
+  <section style="color:rgb(255, 255, 255)"><article><p>I could put all 5 reasons on this page, but I would like too use a Hyperlink instead</p></article></section>
+  </div>
 </body>
-<footer>
+<footer style="color:rgb(255, 255, 255)">
+  <div class="content">
     <blockquote cite="https://www.thoughtco.com/best-confucius-quotes-2833291">
         <!--- Date Accessed 20220706 --->
 </blockquote>
@@ -38,6 +67,7 @@
    <em><a href="https://www.thoughtco.com/best-confucius-quotes-2833291"target="_blank">Confucious</a></em>
         
     <p>© Alex Yang, powered by Alex587 in GitHub</p>
+    </div>
 </footer>
 
 </html>
