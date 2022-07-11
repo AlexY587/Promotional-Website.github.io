@@ -3,10 +3,10 @@
 To Do List
 - [x] complete the personal information
 - [x] brainstorm and find an idea to promote
-- [ ] create a template for webpages
-- [ ] design template
-- [ ] add two webpages
-- [ ] add 5 reasons
+- [x] create a template for webpages
+- [x] design template
+- [x] add two webpages
+- [x] add 5 reasons
 - [ ] finish designing website
 
 Promotion
