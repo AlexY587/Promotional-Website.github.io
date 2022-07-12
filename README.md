@@ -7,6 +7,8 @@ To Do List
 - [x] design template
 - [x] add two webpages
 - [x] add 5 reasons
+- [x] format all pages
+- [ ] fix problem with whitespace
 - [ ] finish designing website
 
 Promotion
